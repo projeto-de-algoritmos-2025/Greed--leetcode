@@ -15,14 +15,17 @@ Foram realizadas 4 questões do leetcode sobre algoritmos ambiciosos.
 | Problema | Nome                                   | Dificuldade |
 |----------|----------------------------------------|-------------|
 | [134](https://leetcode.com/problems/gas-station/) | Gas Station                       | Médio       |
-| -     | []()                        | Difícil     |
+| [1235](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)     | Maximum Profit in Job Scheduling                        | Difícil     |
 | -     | []()                        | Médio       |
 | -     | []()                        | Difícil     |
 
 
 ## Screenshots
  
- ### Questão Gas Station
+### Questão Gas Station
+<img src="./images/imageGasStation.png" alt="Q1" width="600"/>
+
+### Questão Maximum Profit in Job Scheduling
 <img src="./images/imageGasStation.png" alt="Q1" width="600"/>
 
 
