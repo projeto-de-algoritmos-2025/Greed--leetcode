@@ -16,7 +16,7 @@ Foram realizadas 4 questões do leetcode sobre algoritmos ambiciosos.
 |----------|----------------------------------------|-------------|
 | [134](https://leetcode.com/problems/gas-station/) | Gas Station                       | Médio       |
 | [1235](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)     | Maximum Profit in Job Scheduling                        | Difícil     |
-| [435] (https://leetcode.com/problems/non-overlapping-intervals/description/)     |      Non-overlapping Intervals                | Médio       |
+| [435](https://leetcode.com/problems/non-overlapping-intervals/description/)     |      Non-overlapping Intervals                | Médio       |
 | -     | []()                        | Difícil     |
 
 
