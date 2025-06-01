@@ -22,6 +22,9 @@ Foram realizadas 4 questões do leetcode sobre algoritmos ambiciosos.
 
 ## Screenshots
  
+ ### Questão Gas Station
+<img src="./images/imageGasStation.png" alt="Q1" width="600"/>
+
 
 ## Instalação 
 **Linguagem**: Python<br>
