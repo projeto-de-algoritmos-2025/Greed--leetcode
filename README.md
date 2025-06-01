@@ -29,7 +29,7 @@ Foram realizadas 4 questões do leetcode sobre algoritmos ambiciosos.
 <img src="./images/imageMPJB.png" alt="Q2" width="600"/>
 
 ### Questão Non-overlapping Intervals
-<img src="./images/imageMPJB.png" alt="Q3" width="600"/>
+<img src="./images/imageNOI.png" alt="Q3" width="600"/>
 
 
 
