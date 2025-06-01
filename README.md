@@ -14,7 +14,7 @@ Foram realizadas 4 questões do leetcode sobre algoritmos ambiciosos.
 
 | Problema | Nome                                   | Dificuldade |
 |----------|----------------------------------------|-------------|
-| -      | []()                        | Médio       |
+| [134](https://leetcode.com/problems/gas-station/) | Gas Station                       | Médio       |
 | -     | []()                        | Difícil     |
 | -     | []()                        | Médio       |
 | -     | []()                        | Difícil     |
