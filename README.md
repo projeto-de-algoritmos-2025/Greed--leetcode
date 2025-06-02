@@ -18,7 +18,7 @@ Foram realizadas 4 questões do leetcode sobre algoritmos ambiciosos.
 | [1235](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)     | Maximum Profit in Job Scheduling                        | Difícil     |
 | [435](https://leetcode.com/problems/non-overlapping-intervals/description/)     |      Non-overlapping Intervals                | Médio       |
 | [451](https://leetcode.com/problems/sort-characters-by-frequency/)  |   Sort Characters By Frequency                   | Médio    |
-| [630](https://leetcode.com/problems/course-schedule-iii/description/)  |   Course Schedule III                | Difícil    |]
+| [630](https://leetcode.com/problems/course-schedule-iii/description/)  |   Course Schedule III                | Difícil    |
 | [2742](https://leetcode.com/problems/painting-the-walls/description/)  |   Painting the Walls              | Difícil    |
 
 
@@ -49,3 +49,5 @@ Foram realizadas 4 questões do leetcode sobre algoritmos ambiciosos.
 **Linguagem**: C<br>
 
 ## Link
+
+Link do vídeo do youtube: https://youtu.be/S6XaJG-ZDTc
