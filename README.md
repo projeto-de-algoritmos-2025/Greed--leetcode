@@ -41,7 +41,7 @@ Foram realizadas 4 questões do leetcode sobre algoritmos ambiciosos.
 <img src="./images/Course_Schedule.png" alt="Q2" width="600"/>
 
 ### Questão Painting the Walls
-<img src="./images/" alt="Q3" width="600"/>
+<img src="./images/PaintingWalls.png" alt="Q3" width="600"/>
 
 
 ## Instalação 
