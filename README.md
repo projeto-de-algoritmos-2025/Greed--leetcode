@@ -35,10 +35,10 @@ Foram realizadas 4 questões do leetcode sobre algoritmos ambiciosos.
 <img src="./images/imageNOI.png" alt="Q3" width="600"/>
 
 ### Questão Sort Characters By Frequency 
-<img src="./images/.png" alt="Q1" width="600"/>
+<img src="./images/sort_characters_by_frequency.png" alt="Q1" width="600"/>
 
 ### Questão  Course Schedule III
-<img src="./images/" alt="Q2" width="600"/>
+<img src="./images/Course_Schedule.png" alt="Q2" width="600"/>
 
 ### Questão Painting the Walls
 <img src="./images/" alt="Q3" width="600"/>
